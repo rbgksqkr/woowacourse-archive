@@ -1,9 +1,9 @@
-# woowacourse-archive
+# 📝 woowacourse-archive
 
-- 우아한테크코스 프론트엔드 6기 저장소
+- 우아한테크코스 프론트엔드 6기 활동 저장소
 - 활동 기간 : 24.02.13 - 24.11.29
 
-## 레벨 1
+## 🌱 레벨 1
 
 - 레벨 1 활동 기간 : 24.02.13 - 24.04.05
 
@@ -18,10 +18,25 @@
 |  4  | [영화 리뷰](https://rbgksqkr.github.io/javascript-movie-review/dist/) | [javascript-movie-review-step1](https://github.com/rbgksqkr/javascript-movie-review/tree/step1) | [Pull Request](https://github.com/woowacourse/javascript-movie-review/pull/137) |
 |     |                                                                       | [javascript-movie-review-step2](https://github.com/rbgksqkr/javascript-movie-review/tree/step2) | [Pull Request](https://github.com/woowacourse/javascript-movie-review/pull/145) |
 
-우아한테크코스 활동 아카이빙 저장소
+## 🔍 레벨 2
+
+- 레벨 2 활동 기간 : 24.04.16 - 24.06.14
+
+| No. |                                                                                     Project                                                                                     |                                           Repository                                            | Pull Request                                                                   |
+| :-: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------- |
+|  1  |                                                             [페이먼츠](https://rbgksqkr.github.io/react-payments/)                                                              |          [react-payments-step1](https://github.com/rbgksqkr/react-payments/tree/step1)          | [Pull Request](https://github.com/woowacourse/react-payments/pull/359)         |
+|     |                                                        [storybook](https://rbgksqkr.github.io/react-payments/storybook)                                                         |          [react-payments-step2](https://github.com/rbgksqkr/react-payments/tree/step2)          | [Pull Request](https://github.com/woowacourse/react-payments/pull/376)         |
+|  2  |                                                                                  페이먼츠 모듈                                                                                  |           [react-modules-step1](https://github.com/rbgksqkr/react-modules/tree/step1)           | [Pull Request](https://github.com/woowacourse/react-modules/pull/23)           |
+|     | [modal](https://www.npmjs.com/package/maru-nice-modal), [hooks](https://www.npmjs.com/package/maru-nice-hooks), [storybook](https://rbgksqkr.github.io/react-modules/storybook) |           [react-modules-step2](https://github.com/rbgksqkr/react-modules/tree/step2)           | [Pull Request](https://github.com/woowacourse/react-modules/pull/71)           |
+|  3  |                                                           [장바구니](https://rbgksqkr.github.io/react-shopping-cart/)                                                           |     [react-shopping-cart-step1](https://github.com/rbgksqkr/react-shopping-cart/tree/step1)     | [Pull Request](https://github.com/woowacourse/react-shopping-cart/pull/276)    |
+|     |                                                                                                                                                                                 |     [react-shopping-cart-step2](https://github.com/rbgksqkr/react-shopping-cart/tree/step2)     | [Pull Request](https://github.com/woowacourse/react-shopping-cart/pull/292)    |
+|  4  |                                                        [상품 목록](https://rbgksqkr.github.io/react-shopping-products/)                                                         | [react-shopping-products-step1](https://github.com/rbgksqkr/react-shopping-products/tree/step1) | [Pull Request](https://github.com/woowacourse/react-shopping-products/pull/37) |
+|     |                                                                                                                                                                                 | [react-shopping-products-step2](https://github.com/rbgksqkr/react-shopping-products/tree/step2) | [Pull Request](https://github.com/woowacourse/react-shopping-products/pull/60) |
 
 ## ✍️ 글쓰기
 
 | 레벨 |                                  링크                                  |     유연성 강화 목표     |
 | :--: | :--------------------------------------------------------------------: | :----------------------: |
 |  1   | [레벨 1 글쓰기](https://github.com/woowacourse/woowa-writing/pull/40)  |  우테코 환경에 던져지기  |
+|  2   | [레벨 2 글쓰기](https://github.com/woowacourse/woowa-writing/pull/212) | 이제는 나에게 집중해보자 |
+|  3   |                                   -                                    |            -             |
