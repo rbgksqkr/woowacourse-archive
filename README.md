@@ -45,6 +45,6 @@
 
 | No. |          Study          | Repository                                                                                                                  |
 | :-: | :---------------------: | :-------------------------------------------------------------------------------------------------------------------------- |
-|  1  |       함수형 코딩       | [함수형 코딩 스터디 저장소 링크](https://github.com/Yoonkyoungme/study-dingco)                                              |
+|  1  |       함수형 코딩       | [스터디 저장소 링크](https://github.com/Yoonkyoungme/study-dingco)                                              |
 |  2  | 리액트 + CS 발표 스터디 | [자료 공유 노션 링크](https://chysis.notion.site/863f2616a1214792b2312400996b3deb?v=881000c6d7b54e88b791b20355d497dc&pvs=4) |
 |  3  |     알고리즘 스터디     |[스터디 규칙 이미지](https://github.com/rbgksqkr/woowacourse-archive/assets/63959171/f7c32de9-8374-4f99-bb5b-ff9c4896a97e) |
