@@ -47,4 +47,4 @@
 | :-: | :---------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |  1  |       함수형 코딩       |                             [스터디 저장소 링크](https://github.com/Yoonkyoungme/study-dingco)                             |
 |  2  | 리액트 + CS 발표 스터디 |                  [자료 공유 노션 링크](https://chysis.notion.site/327be0518a3048fc9e2c2bb096989a34?pvs=4)                  |
-|  3  |     알고리즘 스터디     | [스터디 규칙 이미지](https://github.com/rbgksqkr/woowacourse-archive/assets/63959171/f7c32de9-8374-4f99-bb5b-ff9c4896a97e) |
+|  3  |     알고리즘 스터디     | [스터디 규칙 이미지](https://github.com/rbgksqkr/woowacourse-archive/assets/63959171/f7c32de9-8374-4f99-bb5b-ff9c4896a97e), [solved.ac](https://solved.ac/profile/rbgksqkr) |
