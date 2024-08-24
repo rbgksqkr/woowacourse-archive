@@ -52,11 +52,11 @@
 
 ## ✍️ 글쓰기
 
-| 레벨 |                                  링크                                  |     유연성 강화 목표     |
-| :--: | :--------------------------------------------------------------------: | :----------------------: |
-|  1   | [레벨 1 글쓰기](https://github.com/woowacourse/woowa-writing/pull/40)  |  우테코 환경에 던져지기  |
-|  2   | [레벨 2 글쓰기](https://github.com/woowacourse/woowa-writing/pull/212) | 이제는 나에게 집중해보자 |
-|  3   | [레벨 3 글쓰기](https://github.com/woowacourse/woowa-writing/pull/314) | 설득력 있는 말하기 |
+| 레벨 |                                  PR 링크                                  | 글 링크 |     유연성 강화 목표     |
+| :--: | :--------------------------------------------------------------------: | :----------------------: | :-: |
+|  1  | [레벨 1 글쓰기 PR](https://github.com/woowacourse/woowa-writing/pull/40)  | [바로가기](https://github.com/rbgksqkr/woowa-writing/blob/level1/LEVEL_1.md) | 우테코 환경에 던져지기  |
+|  2   | [레벨 2 글쓰기 PR](https://github.com/woowacourse/woowa-writing/pull/212) | [바로가기](https://github.com/rbgksqkr/woowa-writing/blob/level2/LEVEL_2.md) | 이제는 나에게 집중해보자 |
+|  3   | [레벨 3 글쓰기 PR](https://github.com/woowacourse/woowa-writing/pull/314) | [바로가기](https://github.com/rbgksqkr/woowa-writing/blob/level3/LEVEL_3.md) | 설득력 있는 말하기 |
 
 ## 📘 스터디
 
