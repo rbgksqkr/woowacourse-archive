@@ -41,6 +41,7 @@
 | 서비스명 | 서비스 링크 | Repository |                                                                                          
 | :-: | :-: | :--: |
 |  땅콩 🥜  | [https://ddangkong.kr](https://ddangkong.kr)  | [2024-ddangkong](https://github.com/woowacourse-teams/2024-ddangkong) |
+| figma 디자인 | [땅콩팀 figma 링크](https://www.figma.com/design/h9bVCpZvXbVGbXFCqnU8Zu/%EB%95%85%EC%BD%A9-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0-1&t=m6vd6VXXPXJsqMUJ-1) | - |
 
 | No. | 내용 | 회고 |                                                                                          
 | :-: | :-: | :--: |
