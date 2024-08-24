@@ -34,13 +34,28 @@
 |     |                                                                                                                                                                                 | [react-shopping-products-step2](https://github.com/rbgksqkr/react-shopping-products/tree/step2) | [PR](https://github.com/woowacourse/react-shopping-products/pull/60) |
 |  방학   |               [영화 리뷰(react)](https://rbgksqkr.github.io/react-movie-review/)                                                                                                                                                                  | [react-movie-review](https://github.com/rbgksqkr/react-movie-review) |  |
 
+## 💻 레벨 3
+
+- 레벨 3 활동 기간 : 24.07.02 - 24.08.23
+
+| 서비스명 | 서비스 링크 | Repository |                                                                                          
+| :-: | :-: | :--: |
+|  땅콩 🥜  | [https://ddangkong.kr](https://ddangkong.kr)  | [2024-ddangkong](https://github.com/woowacourse-teams/2024-ddangkong) |
+
+| No. | 내용 | 회고 |                                                                                          
+| :-: | :-: | :--: |
+|  1차 데모데이  | -  | [1차 데모데이 회고](https://velog.io/@ghenmaru/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-FE-LEVEL3-1-1%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EA%B3%A0) |
+|  2차 데모데이  | -  | [2차 데모데이 회고](https://velog.io/@ghenmaru/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-FE-3-2-2%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EA%B3%A0) |
+|  3차 데모데이  | -  | 3차 데모데이 회고 |
+|  4차 데모데이  | -  | 4차 데모데이 회고 |
+
 ## ✍️ 글쓰기
 
 | 레벨 |                                  링크                                  |     유연성 강화 목표     |
 | :--: | :--------------------------------------------------------------------: | :----------------------: |
 |  1   | [레벨 1 글쓰기](https://github.com/woowacourse/woowa-writing/pull/40)  |  우테코 환경에 던져지기  |
 |  2   | [레벨 2 글쓰기](https://github.com/woowacourse/woowa-writing/pull/212) | 이제는 나에게 집중해보자 |
-|  3   |                                   -                                    |            -             |
+|  3   | [레벨 3 글쓰기](https://github.com/woowacourse/woowa-writing/pull/314) | 설득력 있는 말하기 |
 
 ## 📘 스터디
 
