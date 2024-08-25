@@ -48,8 +48,8 @@
 | :-: | :-: | :--: |
 |  1차 데모데이  | 대화주제 제공  | [1차 데모데이 회고](https://velog.io/@ghenmaru/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-FE-LEVEL3-1-1%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EA%B3%A0) |
 |  2차 데모데이  | 방 생성 + 싱글 플레이  | [2차 데모데이 회고](https://velog.io/@ghenmaru/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-FE-3-2-2%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EA%B3%A0) |
-|  3차 데모데이  | 멀티 플레이 (단판) | 3차 데모데이 회고 |
-|  4차 데모데이  | 멀티 플레이 + 게임 여러번 진행 + 방설정 + 방장 역할 구분  | 4차 데모데이 회고 |
+|  3차 데모데이  | 멀티 플레이 (단판) | [3차 데모데이 회고](https://velog.io/@ghenmaru/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-FE-LEVEL3-3-3%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EA%B3%A0) |
+|  4차 데모데이  | 멀티 플레이 + 게임 여러번 진행 + 방설정 + 방장 역할 구분  | [4차 데모데이 회고](https://velog.io/@ghenmaru/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-FE-LEVEL3-4-4%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EA%B3%A0) |
 
 ## ✍️ 글쓰기
 
