@@ -51,6 +51,17 @@
 |  3차 데모데이  | 멀티 플레이 (단판) | [3차 데모데이 회고](https://velog.io/@ghenmaru/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-FE-LEVEL3-3-3%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EA%B3%A0) |
 |  4차 데모데이  | 멀티 플레이 + 게임 여러번 진행 + 방설정 + 방장 역할 구분  | [4차 데모데이 회고](https://velog.io/@ghenmaru/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-FE-LEVEL3-4-4%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EA%B3%A0) |
 
+## 💫 테코톡 기술 발표
+- 주제 : 리액트 컴포넌트 라이프사이클
+- youtube 영상 : [[10분 테코톡] 마루의 리액트 컴포넌트 LIFECYCLE](https://www.youtube.com/watch?v=wLPHtaSfCmU)
+- 발표 내용 정리 : [발표 내용을 정리한 개인 기술 블로그](https://velog.io/@ghenmaru/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A0%8C%EB%8D%94%EB%A7%81%EA%B3%BC-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0)
+
+### 발표 내용 및 발표를 통해 배운 점
+- 함수 컴포넌트의 생명주기를 이해하며, 언제 어떤 작업을 수행해야 하는지 이해
+- 리액트 렌더링의 render, commit, 브라우저 렌더링을 구분하여 리액트 렌더링 최적화 방법 이해
+- useEffect의 활용 예시, 잘 사용하는 예시, 미션에 적용해본 예시를 설명하며 잘 사용하는 방법
+- useEffect와 useLayoutEffect의 차이를 이해하며, 직접 예시를 구현하여 UX 개선 사례 설명
+
 ## ✍️ 글쓰기
 
 | 레벨 |                                  PR 링크                                  | 글 링크 |     유연성 강화 목표     |
